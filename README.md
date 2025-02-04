@@ -1,4 +1,4 @@
-# Full-Stack E-Commerce Web Application
+e# Full-Stack E-Commerce Web Application
 
 ## 🚀 Overview
 
@@ -101,6 +101,7 @@ Start the admin server:
 ```bash
 npm run dev
 ```
+The admin will be available at http://localhost:5174/ecommerce-project/
 
 ## 🚀  Conclusion
 This e-commerce web application demonstrates a full-stack development approach, integrating a modern front-end framework with a powerful back-end API. The use of MongoDB, JWT authentication, and responsive design ensures a smooth, secure, and scalable user experience.
